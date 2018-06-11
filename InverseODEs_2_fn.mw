@@ -174,7 +174,23 @@ end proc:</Text-field>
 <Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
 </Input>
 </Group>
-<Group labelreference="L147" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Group hide-input="false" labelreference="L151" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">InverseODE2(u^2+1, 1, 0, 1);</Text-field>
+</Input>
+<Output><Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUkobWZlbmNlZEc2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYmLUklbXJvd0dGJDYqLUkjbW5HRiQ2JFEiMkYnLyUsbWF0aHZhcmlhbnRHUSdub3JtYWxGJy1JI21vR0YkNi1RIixGJ0YyLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR1EldHJ1ZUYnLyUpc3RyZXRjaHlHRjsvJSpzeW1tZXRyaWNHRjsvJShsYXJnZW9wR0Y7LyUubW92YWJsZWxpbWl0c0dGOy8lJ2FjY2VudEdGOy8lJ2xzcGFjZUdRJjAuMGVtRicvJSdyc3BhY2VHUSwwLjMzMzMzMzNlbUYnLUYvNiRRIjFGJ0YyRjUtRi82JFEiMEYnRjIvJStmb3JlZ3JvdW5kR1EoWzAsMCwwXUYnLyUpcmVhZG9ubHlHRjtGMkYyLyUlb3BlbkdRJyZsc3FiO0YnLyUmY2xvc2VHUScmcnNxYjtGJw==">NyUiIiMiIiIiIiE=</Equation></Text-field>
+</Output>
+</Group>
+<Group hide-input="false" labelreference="L152" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">InverseODE2(sqrt(u), 1, 0, 1);</Text-field>
+</Input>
+<Output><Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUkobWZlbmNlZEc2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYmLUklbXJvd0dGJDYqLUYsNictSSNtb0dGJDYtUSomdW1pbnVzMDtGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRicvJSZmZW5jZUdRJmZhbHNlRicvJSpzZXBhcmF0b3JHRjkvJSlzdHJldGNoeUdGOS8lKnN5bW1ldHJpY0dGOS8lKGxhcmdlb3BHRjkvJS5tb3ZhYmxlbGltaXRzR0Y5LyUnYWNjZW50R0Y5LyUnbHNwYWNlR1EsMC4yMjIyMjIyZW1GJy8lJ3JzcGFjZUdGSC1JJm1mcmFjR0YkNigtSSNtbkdGJDYkUSM0NEYnRjQtRk82JFEiN0YnRjQvJS5saW5ldGhpY2tuZXNzR1EiMUYnLyUrZGVub21hbGlnbkdRJ2NlbnRlckYnLyUpbnVtYWxpZ25HRlovJSliZXZlbGxlZEdGOS1GMTYtUScmcGx1cztGJ0Y0RjdGOkY8Rj5GQEZCRkRGRkZJLUZMNigtRiw2Ji1GTzYkUSQyOTdGJ0Y0LUYxNi1RMSZJbnZpc2libGVUaW1lcztGJ0Y0RjdGOkY8Rj5GQEZCRkQvRkdRJjAuMGVtRicvRkpGZ28tRiw2Ji1JI21pR0YkNiVRInlGJy8lJ2l0YWxpY0dRJXRydWVGJy9GNVEnaXRhbGljRictRjE2LVEwJkFwcGx5RnVuY3Rpb247RidGNEY3RjpGPEY+RkBGQkZERmZvRmhvLUYjNiQtRlxwNiVRInRGJ0ZfcEZicEY0RjRGNC1GTzYkUSM0MEYnRjRGVUZYRmVuRmduRjQtRjE2LVEiLEYnRjRGNy9GO0ZhcEY8Rj5GQEZCRkRGZm8vRkpRLDAuMzMzMzMzM2VtRictRkw2KC1GTzYkUSIzRidGNC1GTzYkUSMyNUYnRjRGVUZYRmVuRmduRl9xLUZMNigtRk82JFEjNzJGJ0Y0LUZPNiRRIzM1RidGNEZVRlhGZW5GZ24vJStmb3JlZ3JvdW5kR1EoWzAsMCwwXUYnLyUpcmVhZG9ubHlHRjlGNEY0LyUlb3BlbkdRJyZsc3FiO0YnLyUmY2xvc2VHUScmcnNxYjtGJw==">NyUsJiMhI1ciIigiIiItSSJ5RzYiNiNJInRHRiojIiQoSCIjUyMiIiQiI0QjIiNzIiNO</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L153" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">dsolve([diff(y(t), t) = -44/7 + 297/40*y(t), y(0) = 3/25, D(y)(0) = 72/35], [y(t)])</Text-field>
+</Input>
+</Group>
+<Group labelreference="L154" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
 </Input>
 </Group>
